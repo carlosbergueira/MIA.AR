@@ -1,5 +1,5 @@
 ## UM / MIA / RL | Maio 2026
-### Portfólio "Reinforcement Learning Experimental Framework"
+### Portfólio "Reinforcement Learning"
 ### Carlos Bergueira, PG11605
 
 ---
